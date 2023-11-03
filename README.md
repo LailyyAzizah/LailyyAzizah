@@ -20,4 +20,4 @@
 
 > Thanks for stopping by! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LailyyAzizah)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LailyyAzizah&show_icons=true&theme=merko)
