@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left"><<br> - 🔭 Data Analyst Student<br> - 📚 I'm currently learning at MyEduSolve as a Data Analyst<br> - 👨‍💻 All of my projects are available at <a href = "https://lailyyazizah.github.io/"><b>MyPortfolio</b></a></p>
+<p align="left"><br> - 🔭 Data Analyst Student<br> - 📚 I'm currently learning at MyEduSolve as a Data Analyst<br> - 👨‍💻 All of my projects are available at <a href = "https://lailyyazizah.github.io/"><b>MyPortfolio</b></a></p>
 
 ###
 
